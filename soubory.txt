@@ -47,7 +47,9 @@ yay -S nomacs
 yay -S mystiq
 yay -S clipit
 yay nerd-fonts
-
+-----------------------------------
+zhs - zap
+zsh <(curl -s https://raw.githubusercontent.com/zap-zsh/zap/master/install.zsh) --branch release-v1
 ------------------------------------
 //instalace přes windows//
 libreoffice -----------> drive-go/windows11
