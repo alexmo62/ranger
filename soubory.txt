@@ -30,6 +30,7 @@ makepkg -sri
 3---------------------------------
 yay -S pacseek /instalační balíček/
 4--------------------------------
+Thorium - Pacseek
 postup je v PDF MEGA/linux/instalace/archcraft
 nainstalováno v hlavním balíku
 #sudo pacman -S cups /instalace tiskárny/
@@ -48,7 +49,7 @@ yay -S mystiq
 yay -S clipit
 yay nerd-fonts
 -----------------------------------
-zhs - zap
+zhs
 zsh <(curl -s https://raw.githubusercontent.com/zap-zsh/zap/master/install.zsh) --branch release-v1
 ------------------------------------
 //instalace přes windows//
