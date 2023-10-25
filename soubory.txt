@@ -1,4 +1,5 @@
 Archcraft instalace a instalované soubory
+Thorium - Pacseek
 !!!!! Před instalací zkopírovat!!!!!
 usb flash-disk
 1 /etc/pacman.d/mirrorlist ----> usb /install/pacman
@@ -15,6 +16,10 @@ drive-go
 -----------------------------------
 ----------------------------------
 Příkaz instalace
+pacman -Sy
+sudo pacman -S mc
+pacman -S git
+base-devel (pro ostatní archlinux ne pro archcraft)
 1 ----------------------------------
 sudo pacman -S mc
 /etc/pacman.d/mirrorlist
@@ -49,8 +54,10 @@ yay -S mystiq
 yay -S clipit
 yay nerd-fonts
 -----------------------------------
-zhs
+sudo pacman -S zhs
 zsh <(curl -s https://raw.githubusercontent.com/zap-zsh/zap/master/install.zsh) --branch release-v1
+chsh -l
+chsh -s /bin/zsh
 ------------------------------------
 //instalace přes windows//
 libreoffice -----------> drive-go/windows11
