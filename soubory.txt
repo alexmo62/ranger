@@ -42,6 +42,7 @@ nainstalováno v hlavním balíku
 #sudo pacman -S hplip
 sudo systemctl enable --now cups
 hp-setup -i
+gnome-disk-utility
 ------------------------------------
 pacseek  brave
 https://achnaton.de.tl/
