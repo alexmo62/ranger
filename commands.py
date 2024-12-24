@@ -6,7 +6,7 @@
 
 # A simple command for demonstration purposes follows.
 # -----------------------------------------------------------------------------
-
+#from plugins.ranger_udisk_menu.mounter import mount
 from __future__ import (absolute_import, division, print_function)
 
 # You can import any python module as needed.
