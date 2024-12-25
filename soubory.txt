@@ -1,4 +1,7 @@
-Archcraft instalace a instalované soubory
+ArcoLinux bspw instalace a instalované soubory
+
+ncdu získání přehldně disk
+cryptsetup 2.7.5 - zalohování krypto HP
 Thorium - Pacseek
 !!!!! Před instalací zkopírovat!!!!!
 usb flash-disk
