@@ -1,7 +1,7 @@
 ArcoLinux bspw instalace a instalované soubory
 boot laptop F12
 
-
+hovno
 sudo pacman -S zoxide /podobný autojump/
 ncdu získání přehledně disk
 cryptsetup 2.7.5 - zalohování krypto HP
