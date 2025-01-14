@@ -1,7 +1,7 @@
 ArcoLinux bspw instalace a instalované soubory
 boot laptop F12
 
-Vscode se spouští v terminále /code git/
+Vscode se spouští v terminále /code git,potom funguje terminal/
 sudo pacman -S lazygit /git manažer/
 sudo pacman -S zoxide /podobný autojump/
 ncdu získání přehledně disk
