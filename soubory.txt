@@ -1,7 +1,14 @@
 ArcoLinux bspw instalace a instalované soubory
+boot laptop F12 "Laptop"
 
-ncdu získání přehldně disk
+Vscode se spouští v terminále /code git,potom funguje terminal/
+sudo pacman -S lazygit /git manažer/
+sudo pacman -S zoxide /podobný autojump/
+ncdu získání přehledně disk
 cryptsetup 2.7.5 - zalohování krypto HP
+git clone https://github.com/alexmo62/ranger2.git
+yay -S python-ueberzug-git
+
 Thorium - Pacseek
 !!!!! Před instalací zkopírovat!!!!!
 usb flash-disk
@@ -65,6 +72,16 @@ chsh -s /bin/zsh
 ------------------------------------
 //instalace přes windows//
 libreoffice -----------> drive-go/windows11
++++++++++++++++++
+### Betterlockscreen
+https://github.com/betterlockscreen/betterlockscreen
+# move service file to proper dir (the aur package does this for you)
+cp betterlockscreen@.service /usr/lib/systemd/system/
+# enable systemd service
+systemctl enable betterlockscreen@$USER
+# disable systemd service
+systemctl disable betterlockscreen@$USER
+++++++++++++++++++++++++++++++++++
 
 ⚡➜ ~ pacman -Q
 a-candy-beauty-icon-theme-git 24.12-01
