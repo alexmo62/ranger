@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo pacman -S encfs xsel
-sudo pacman -S dysk
+paru dysk
 sudo pacman -S grsync gufw clipgrab fd neovim mpv
 sudo pacman -S newsboat
 sudo pacman -S flameshot
